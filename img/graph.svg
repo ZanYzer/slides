@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg3713"
+   width="1280"
+   height="960"
+   viewBox="0 0 1280 960"
+   sodipodi:docname="graph.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3719">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3717" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3715"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="0.6458181"
+     inkscape:cx="775.3672"
+     inkscape:cy="445.58222"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3713" />
+  <path
+     style="fill:none;stroke:#f60000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 52.025857,907.98789 C 153.48667,860.90715 227.41663,825.99358 289.61935,733.89865 331.55331,671.81288 478.5407,414.4829 554.81878,-11.616002"
+     id="path4530"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csc" />
+  <path
+     style="fill:none;stroke:#009c00;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 52.006737,907.97228 C 89.415847,750.48904 142.0824,709.65955 202.00815,676.94819 325.29444,609.65053 492.66191,587.84376 517.3396,583.88162 c 259.55672,-41.6733 528.4039,-67.86236 794.1543,-75.47034"
+     id="path3723"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cssc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 51.014242,53.986 V 908.98576"
+     id="path4532"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4534"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(-28.262516,-159.78386)"><flowRegion
+       id="flowRegion4536"><rect
+         id="rect4538"
+         width="315.10419"
+         height="49.549545"
+         x="99.873322"
+         y="228.14745" /></flowRegion><flowPara
+       id="flowPara4540"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script'">COMPLEXITY</flowPara></flowRoot>  <flowRoot
+     transform="translate(846.45145,620.83752)"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot4548"
+     xml:space="preserve"><flowRegion
+       id="flowRegion4544"><rect
+         y="228.14745"
+         x="99.873322"
+         height="49.549545"
+         width="315.10419"
+         id="rect4542" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script'"
+       id="flowPara4546">EXPRESSIVITY</flowPara></flowRoot>  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path4550"
+     d="M 1226.014,908.986 51.014242,908.98576"
+     style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <flowRoot
+     transform="translate(463.05094,-185.69213)"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot4558"
+     xml:space="preserve"><flowRegion
+       id="flowRegion4554"><rect
+         y="228.14745"
+         x="99.873322"
+         height="57.02597"
+         width="708.81726"
+         id="rect4552" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script'"
+       id="flowPara4556">COMPLEXITY vs EXPRESSIVITY</flowPara></flowRoot>  <path
+     sodipodi:nodetypes="ccc"
+     inkscape:connector-curvature="0"
+     id="path4564"
+     d="m 40.407642,64.5926 10.6066,-10.6066 10.6066,10.6066"
+     style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1215.4074,898.3794 10.6066,10.6066 -10.6066,10.6066"
+     id="path4566"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" />
+</svg>
